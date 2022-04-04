@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.253e6df4.css",
+    "main.js": "/static/js/main.94dbbbbe.js",
+    "static/media/Omurbek2.png": "/static/media/Omurbek2.f7bac66fb9cd2762f5eb.png",
+    "index.html": "/index.html",
+    "main.253e6df4.css.map": "/static/css/main.253e6df4.css.map",
+    "main.94dbbbbe.js.map": "/static/js/main.94dbbbbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253e6df4.css",
+    "static/js/main.94dbbbbe.js"
+  ]
+}
